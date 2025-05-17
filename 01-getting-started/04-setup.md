@@ -7,6 +7,8 @@ Just install Docker desktop, run the below command and create linux container of
 ### Docker Command to Run Ubuntu Linux Container in windows host (Persistent & Long-Term) 
 
 ```bash
+wsl --init ## if WSL is not present in your windows and restart machine
+
 docker run -dit \
   --name ubuntu-container \
   --hostname ubuntu-dev \

@@ -4,19 +4,19 @@ Linux distributions (distros) are different versions of Linux that package the L
 
 Here are some popular Linux distributions:
 
-    Ubuntu – One of the most beginner-friendly distros, widely used for personal and server use. It has great community support.
+``Ubuntu`` – One of the most beginner-friendly distros, widely used for personal and server use. It has great community support.
 
-    CentOS (discontinued, replaced by AlmaLinux/Rocky Linux) – Previously a popular choice for servers, based on Red Hat Enterprise Linux (RHEL).
+``CentOS (discontinued, replaced by AlmaLinux/Rocky Linux)`` – Previously a popular choice for servers, based on Red Hat Enterprise Linux (RHEL).
 
-    Debian – A very stable and reliable distro, often used as a base for other distros like Ubuntu.
+``Debian`` – A very stable and reliable distro, often used as a base for other distros like Ubuntu.
 
-    Fedora – A cutting-edge distro that introduces new features before they reach RHEL.
+``Fedora`` – A cutting-edge distro that introduces new features before they reach RHEL.
 
-    Arch Linux – A lightweight, rolling-release distro for advanced users who like customization.
+``Arch Linux`` – A lightweight, rolling-release distro for advanced users who like customization.
 
-    Kali Linux – Designed for cybersecurity and penetration testing.
+``Kali Linux`` – Designed for cybersecurity and penetration testing.
 
-    Alpine Linux – A lightweight, security-focused distro often used in containers.
+``Alpine Linux`` – A lightweight, security-focused distro often used in containers.
 
 
 ### Useful References:
